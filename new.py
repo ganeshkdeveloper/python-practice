@@ -32,3 +32,6 @@
 # skills=["Python","Java","React","Git"]
 # print(skills[-1])
 # print(skills[-2])
+languages=["Python","Java","C++"]
+languages[1]="JavaScript"
+print(languages)
