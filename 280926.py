@@ -11,3 +11,5 @@
 # languages=("Python", "Java", "C++")
 # languages[1]="JavaScript"
 # print(languages)
+# languages = ("Python", "Java", "Python", "C++")
+# print(languages.count("Python"))
