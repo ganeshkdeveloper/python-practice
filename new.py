@@ -7,3 +7,4 @@
 # print(type(age))
 # name="Ganesh"
 # print(name)
+# print(type(name))
