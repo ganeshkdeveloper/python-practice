@@ -4,4 +4,4 @@
 # print("I am starting my Python journey")
 # print("Python syntax is important")
 age=26
-print(age)
+print(type(age))
