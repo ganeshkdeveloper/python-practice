@@ -55,5 +55,5 @@
 # languages = ["Python", "Java", "C++", "JavaScript"]
 # print("Python" in languages)
 # print("PHP" in languages)
-languages = ["Python", "Java", "Python", "C++", "Python"]
-print(languages.count("Python"))
+# languages = ["Python", "Java", "Python", "C++", "Python"]
+# print(languages.count("Python"))
