@@ -8,3 +8,6 @@
 # print(languages[-1])
 # languages = ("Python", "Java", "C++")
 # print(languages[-3])
+# languages=("Python", "Java", "C++")
+# languages[1]="JavaScript"
+# print(languages)
