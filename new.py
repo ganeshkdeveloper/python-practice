@@ -26,3 +26,9 @@
 # data=None
 # print(data)
 # print(type(data))
+# list=["Python","Java","React","Git"]
+# print(list)
+# print(type(list))
+# skills=["Python","Java","React","Git"]
+# print(skills[-1])
+# print(skills[-2])
