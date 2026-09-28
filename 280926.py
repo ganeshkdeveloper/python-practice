@@ -36,3 +36,6 @@
 # languages="Python","Java","C++"
 # print(languages)
 # print(type(languages))
+# language=("Python",)
+# print(language)
+# print(type(language))
