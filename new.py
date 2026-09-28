@@ -5,3 +5,5 @@
 # print("Python syntax is important")
 # age=26
 # print(type(age))
+name="Ganesh"
+print(name)
