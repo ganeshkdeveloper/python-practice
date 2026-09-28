@@ -47,3 +47,6 @@
 # languages = ["Python", "Java", "C++", "JavaScript"]
 # languages.pop(1)
 # print(languages)
+# languages = ["Python", "Java", "C++", "JavaScript"]
+# languages.pop()
+# print(languages)
