@@ -66,3 +66,6 @@
 # numbers = [10, 20, 30, 40, 50]
 # numbers.reverse()
 # print(numbers)
+# languages = ["Python", "Java", "C++"]
+# new_languages=languages.copy()
+# print(new_languages)
