@@ -57,3 +57,6 @@
 # print("PHP" in languages)
 # languages = ["Python", "Java", "Python", "C++", "Python"]
 # print(languages.count("Python"))
+# numbers = [50, 10, 30, 20, 40]
+# numbers.sort()
+# print(numbers)
