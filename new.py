@@ -1,2 +1,1 @@
-
-# print("Welcome to Python")
+print(2026)
