@@ -33,3 +33,6 @@
 # print("JavaScript" not in languages)
 # languages = ("Python", "Java", "C++", "JavaScript", "Go")
 # print(languages[1:4])
+# languages="Python","Java","C++"
+# print(languages)
+# print(type(languages))
