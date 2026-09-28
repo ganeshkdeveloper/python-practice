@@ -35,3 +35,6 @@
 # languages=["Python","Java","C++"]
 # languages[1]="JavaScript"
 # print(languages)
+skills=["Python","Java"]
+skills.append("React")
+print(skills)
