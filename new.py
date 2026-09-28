@@ -20,3 +20,6 @@
 # is_learning=True
 # print(is_learning)
 # print(type(is_learning))
+language="Python"
+print(language)
+print(type(language))
