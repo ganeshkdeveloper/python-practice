@@ -31,3 +31,5 @@
 # print(len(languages))
 # languages = ("Python", "Java", "C++")
 # print("JavaScript" not in languages)
+# languages = ("Python", "Java", "C++", "JavaScript", "Go")
+# print(languages[1:4])
