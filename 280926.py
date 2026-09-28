@@ -24,3 +24,6 @@
 # tuple2 = ("C++", "JavaScript")
 # languages=tuple1+tuple2
 # print(languages)
+# numbers = (10, 20)
+# result=numbers*3
+# print(result)
