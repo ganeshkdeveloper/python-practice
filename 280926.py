@@ -27,3 +27,5 @@
 # numbers = (10, 20)
 # result=numbers*3
 # print(result)
+# languages = ("Python", "Java", "C++", "JavaScript", "Go")
+# print(len(languages))
