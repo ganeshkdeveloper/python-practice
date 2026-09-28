@@ -23,6 +23,6 @@
 # language="Python"
 # print(language)
 # print(type(language))
-data=None
-print(data)
-print(type(data))
+# data=None
+# print(data)
+# print(type(data))
