@@ -41,3 +41,6 @@
 # languages = ["Python", "Java", "C++"]
 # languages.insert(1,"JavaScript")
 # print(languages)
+# languages = ["Python", "Java", "C++", "JavaScript"]
+# languages.remove("C++")
+# print(languages)
