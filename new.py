@@ -52,3 +52,6 @@
 # print(languages)
 # languages = ["Python", "Java", "C++", "JavaScript"]
 # print(len(languages))
+# languages = ["Python", "Java", "C++", "JavaScript"]
+# print("Python" in languages)
+# print("PHP" in languages)
