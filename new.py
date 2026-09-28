@@ -17,3 +17,6 @@
 # number=5+2j
 # print(number)
 # print(type(number))
+# is_learning=True
+# print(is_learning)
+# print(type(is_learning))
