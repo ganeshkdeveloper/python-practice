@@ -72,3 +72,6 @@
 # languages = ["Python", "Java", "C++"]
 # languages.clear()
 # print(languages)
+# languages = ["Python", "Java", "C++", "JavaScript"]
+# del languages[2]
+# print(languages)
