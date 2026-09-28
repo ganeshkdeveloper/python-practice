@@ -8,3 +8,6 @@
 # name="Ganesh"
 # print(name)
 # print(type(name))
+# year=2026
+# print(year)
+# print(type(year))
