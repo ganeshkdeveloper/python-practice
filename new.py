@@ -50,3 +50,5 @@
 # languages = ["Python", "Java", "C++", "JavaScript"]
 # languages.pop()
 # print(languages)
+languages = ["Python", "Java", "C++", "JavaScript"]
+print(len(languages))
