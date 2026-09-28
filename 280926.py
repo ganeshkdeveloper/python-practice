@@ -13,3 +13,5 @@
 # print(languages)
 # languages = ("Python", "Java", "Python", "C++")
 # print(languages.count("Python"))
+# languages = ("Python", "Java", "C++")
+# print(languages.index("C++"))
