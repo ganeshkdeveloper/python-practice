@@ -274,3 +274,6 @@
 # numbers = [1, 2, 3, 4, 5]
 # squares=[x*x for x in numbers]
 # print(squares)
+# numbers=[1,2,3,4,5]
+# doubles=[2*x for x in numbers]
+# print(doubles)
