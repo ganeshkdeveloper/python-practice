@@ -65,3 +65,6 @@
 # languages = {"Python", "Java", "C++"}
 # new_languages=languages.copy()
 # print(new_languages)
+# languages = {"Python", "Java", "C++"}
+# languages.discard("JavaScript")
+# print(languages)
