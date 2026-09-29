@@ -121,3 +121,10 @@
 # }
 # student["course"]="Python"
 # print(student)
+student = {
+    "name": "Ganesh",
+    "age": 26,
+    "course": "Python"
+}
+student["course"]="Java"
+print(student)
