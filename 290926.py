@@ -208,3 +208,9 @@
 # }
 # new_student=student.copy()
 # print(new_student)
+# student = {
+#     "name": "Ganesh",
+#     "age": 26,
+#     "course": "Python"
+# }
+# print("course" in student)
