@@ -19,3 +19,7 @@
 
 # print(removed)
 # print(languages)
+# languages={"Python","Java","C++"}
+# removed=languages.pop()
+# print(removed)
+# print(languages)
