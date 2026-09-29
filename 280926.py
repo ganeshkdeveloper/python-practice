@@ -40,9 +40,9 @@
 # print(language)
 # print(type(language))
 # print("Hello World!")
-name="Ganesh"
-age=26
-role="Agentic AI Engineer"
-print("Name: ",name)
-print("Age: ", age)
-print("Role: ", role)
+# name="Ganesh"
+# age=26
+# role="Agentic AI Engineer"
+# print("Name: ",name)
+# print("Age: ", age)
+# print("Role: ", role)
