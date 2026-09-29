@@ -88,7 +88,7 @@
 # set2 = {"Python", "Java", "C++"}
 
 # print(set1 <= set2)
-set1 = {"Python", "Java", "C++"}
-set2 = {"Python", "Java"}
+# set1 = {"Python", "Java", "C++"}
+# set2 = {"Python", "Java"}
 
-print(set1 >= set2)
+# print(set1 >= set2)
