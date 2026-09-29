@@ -30,3 +30,7 @@
 # print(len(languages))
 # languages = {"Python", "Java", "C++"}
 # print("JavaScript"  in languages)
+# set1 = {"Python", "Java"}
+# set2 = {"Java", "C++"}
+# result=set1.union(set2)
+# print(result)
