@@ -58,3 +58,7 @@
 # set2 = {"Python", "Java"}
 # result=set1.issuperset(set2)
 # print(result)
+set1 = {"Python", "Java"}
+set2 = {"C++", "JavaScript"}
+result=set1.isdisjoint(set2)
+print(result)
