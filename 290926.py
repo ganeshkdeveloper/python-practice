@@ -282,3 +282,8 @@
 # odd_numbers = [x for x in numbers if x % 2 != 0]
 
 # print(odd_numbers)
+# numbers = [1, 2, 3, 4, 5]
+
+# result = ["Even" if x % 2 == 0 else "Odd" for x in numbers]
+
+# print(result)
