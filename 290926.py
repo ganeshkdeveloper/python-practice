@@ -157,3 +157,11 @@
 #     "course": "Python"
 # }
 # print(student.items())
+# student = {
+#     "name": "Ganesh",
+#     "age": 26,
+#     "course": "Python"
+# }
+# removed=student.pop("course")
+# print(removed)
+# print(student)
