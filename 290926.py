@@ -201,3 +201,10 @@
 # }
 # student.setdefault("age",30)
 # print(student)
+# student={
+#     "name":"Ganesh",
+#     "age":26,
+#     "course":"Python"
+# }
+# new_student=student.copy()
+# print(new_student)
