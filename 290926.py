@@ -103,9 +103,9 @@
 # languages=set()
 # print(languages)
 # print(type(languages))
-student={
-"name":"Ganesh",
-"age":26,
-"course":"Python"
-}
-print(student)
+# student={
+# "name":"Ganesh",
+# "age":26,
+# "course":"Python"
+# }
+# print(student)
