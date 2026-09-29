@@ -271,3 +271,6 @@
 # print(student)
 # numbers=[x for x in range(1,6)]
 # print(numbers)
+# numbers = [1, 2, 3, 4, 5]
+# squares=[x*x for x in numbers]
+# print(squares)
