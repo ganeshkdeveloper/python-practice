@@ -62,3 +62,6 @@
 # set2 = {"C++", "JavaScript"}
 # result=set1.isdisjoint(set2)
 # print(result)
+# languages = {"Python", "Java", "C++"}
+# new_languages=languages.copy()
+# print(new_languages)
