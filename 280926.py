@@ -46,3 +46,7 @@
 # print("Name: ",name)
 # print("Age: ", age)
 # print("Role: ", role)
+Avengers=["Captain","Iron Man", "Hulk", "Thor"]
+print(Avengers)
+Avengers[0]="Loki"
+print(len(Avengers))
