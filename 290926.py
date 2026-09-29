@@ -189,3 +189,9 @@
 #      "city":"chennai"
 # })
 # print(student)
+# student = {
+#     "name": "Ganesh",
+#     "age": 26
+# }
+# student.setdefault("course","Python")
+# print(student)
