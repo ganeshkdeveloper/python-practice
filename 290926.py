@@ -68,3 +68,7 @@
 # languages = {"Python", "Java", "C++"}
 # languages.discard("JavaScript")
 # print(languages)
+# set1 = {"Python", "Java"}
+# set2 = {"Java", "C++"}
+# result=set1|set2
+# print(result)
