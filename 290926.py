@@ -115,3 +115,9 @@
 #     "course": "Python"
 # }
 # print(student["course"])
+# student = {
+#     "name": "Ganesh",
+#     "age": 26
+# }
+# student["course"]="Python"
+# print(student)
