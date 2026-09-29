@@ -262,3 +262,10 @@
 # }
 # for key,value in student.items():
 #     print(key,value)
+# student = {
+#     "name": "Ganesh",
+#     "age": 26,
+#     "course": "Python"
+# }
+# del student["course"]
+# print(student)
