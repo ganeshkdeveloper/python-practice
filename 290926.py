@@ -72,3 +72,7 @@
 # set2 = {"Java", "C++"}
 # result=set1|set2
 # print(result)
+# set1 = {"Python", "Java", "C++"}
+# set2 = {"Java", "C++", "JavaScript"}
+# result=set1&set2
+# print(result)
