@@ -84,3 +84,7 @@
 # set2 = {"Java", "C++", "JavaScript"}
 # result=set1^set2
 # print(result)
+# set1 = {"Python", "Java"}
+# set2 = {"Python", "Java", "C++"}
+
+# print(set1 <= set2)
