@@ -165,3 +165,11 @@
 # removed=student.pop("course")
 # print(removed)
 # print(student)
+# student = {
+#     "name": "Ganesh",
+#     "age": 26,
+#     "course": "Python"
+# }
+# removed=student.popitem()
+# print(removed)
+# print(student)
