@@ -195,3 +195,9 @@
 # }
 # student.setdefault("course","Python")
 # print(student)
+# student = {
+#     "name": "Ganesh",
+#     "age": 26
+# }
+# student.setdefault("age",30)
+# print(student)
