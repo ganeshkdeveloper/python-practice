@@ -227,3 +227,10 @@
 #     "city": "Chennai"
 # }
 # print(len(student))
+# students={
+#     "student1":{
+#         "name":"Ganesh",
+#         "age":26
+#     }
+# }
+# print(students)
