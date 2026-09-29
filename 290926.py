@@ -248,3 +248,10 @@
 # }
 # for key in student:
 #     print(key)
+# student = {
+#     "name": "Ganesh",
+#     "age": 26,
+#     "course": "Python"
+# }
+# for value in student.values():
+#     print(value)
