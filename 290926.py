@@ -214,3 +214,9 @@
 #     "course": "Python"
 # }
 # print("course" in student)
+# student = {
+#     "name": "Ganesh",
+#     "age": 26,
+#     "course": "Python"
+# }
+# print("city" not in student)
