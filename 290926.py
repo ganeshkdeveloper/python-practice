@@ -7,3 +7,6 @@
 # languages={"Python","Java"}
 # languages.update(["C++","JavaScript","Go"])
 # print(languages)
+# languages={"Python","Java","C++"}
+# languages.remove("Java")
+# print(languages)
