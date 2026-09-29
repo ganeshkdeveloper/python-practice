@@ -4,3 +4,6 @@
 # languages={"Python","Java"}
 # languages.add("C++")
 # print(languages)
+# languages={"Python","Java"}
+# languages.update(["C++","JavaScript","Go"])
+# print(languages)
