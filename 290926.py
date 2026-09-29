@@ -100,3 +100,6 @@
 # set2 = {"Python", "Java"}
 
 # print(set1 > set2)
+# languages=set()
+# print(languages)
+# print(type(languages))
