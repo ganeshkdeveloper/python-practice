@@ -26,3 +26,5 @@
 # languages = {"Python", "Java", "C++"}
 # languages.clear()
 # print(languages)
+# languages = {"Python", "Java", "C++", "JavaScript"}
+# print(len(languages))
