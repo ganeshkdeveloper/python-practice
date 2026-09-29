@@ -23,3 +23,6 @@
 # removed=languages.pop()
 # print(removed)
 # print(languages)
+# languages = {"Python", "Java", "C++"}
+# languages.clear()
+# print(languages)
