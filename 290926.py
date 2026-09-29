@@ -287,3 +287,6 @@
 # result = ["Even" if x % 2 == 0 else "Odd" for x in numbers]
 
 # print(result)
+# numbers=[1,2,3,4,5]
+# squares={x*x for x in numbers}
+# print(squares)
