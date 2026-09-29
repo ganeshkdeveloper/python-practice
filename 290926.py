@@ -180,3 +180,12 @@
 # }
 # student.clear()
 # print(student)
+# student = {
+#     "name": "Ganesh",
+#     "age": 26
+# }
+# student.update({
+#      "course": "Python",
+#      "city":"chennai"
+# })
+# print(student)
