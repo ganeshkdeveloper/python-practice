@@ -10,3 +10,6 @@
 # languages={"Python","Java","C++"}
 # languages.remove("Java")
 # print(languages)
+# languages = {"Python", "Java", "C++"}
+# languages.discard("Java")
+# print(languages)
