@@ -38,3 +38,7 @@
 # set2 = {"Java", "C++", "JavaScript"}
 # result=set1.intersection(set2)
 # print(result)
+# set1 = {"Python", "Java", "C++"}
+# set2 = {"Java", "C++", "JavaScript"}
+# result=set1.difference(set2)
+# print(result)
