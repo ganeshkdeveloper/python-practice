@@ -46,7 +46,7 @@
 # set2 = {"Java", "C++", "JavaScript"}
 # result=set2.difference(set1)
 # print(result)
-set1 = {"Python", "Java", "C++"}
-set2 = {"Java", "C++", "JavaScript"}
-result=set1.symmetric_difference(set2)
-print(result)
+# set1 = {"Python", "Java", "C++"}
+# set2 = {"Java", "C++", "JavaScript"}
+# result=set1.symmetric_difference(set2)
+# print(result)
