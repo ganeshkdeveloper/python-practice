@@ -145,3 +145,9 @@
 #     "course": "Python"
 # }
 # print(student.keys())
+# student = {
+#     "name": "Ganesh",
+#     "age": 26,
+#     "course": "Python"
+# }
+# print(student.values())
