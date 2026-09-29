@@ -269,3 +269,5 @@
 # }
 # del student["course"]
 # print(student)
+# numbers=[x for x in range(1,6)]
+# print(numbers)
