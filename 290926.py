@@ -54,3 +54,7 @@
 # set2 = {"Python", "Java", "C++"}
 # result=set1.issubset(set2)
 # print(result)
+# set1 = {"Python", "Java", "C++"}
+# set2 = {"Python", "Java"}
+# result=set1.issuperset(set2)
+# print(result)
