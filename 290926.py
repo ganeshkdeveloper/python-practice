@@ -13,3 +13,9 @@
 # languages = {"Python", "Java", "C++"}
 # languages.discard("Java")
 # print(languages)
+# languages = {"Python", "Java", "C++"}
+
+# removed = languages.pop()
+
+# print(removed)
+# print(languages)
