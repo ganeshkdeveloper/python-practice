@@ -50,3 +50,7 @@
 # set2 = {"Java", "C++", "JavaScript"}
 # result=set1.symmetric_difference(set2)
 # print(result)
+# set1 = {"Python", "Java"}
+# set2 = {"Python", "Java", "C++"}
+# result=set1.issubset(set2)
+# print(result)
