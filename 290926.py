@@ -241,3 +241,10 @@
 #     }
 # }
 # print(students["student1"]["age"])
+# student = {
+#     "name": "Ganesh",
+#     "age": 26,
+#     "course": "Python"
+# }
+# for key in student:
+#     print(key)
