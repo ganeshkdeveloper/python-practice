@@ -173,3 +173,10 @@
 # removed=student.popitem()
 # print(removed)
 # print(student)
+# student = {
+#     "name": "Ganesh",
+#     "age": 26,
+#     "course": "Python"
+# }
+# student.clear()
+# print(student)
