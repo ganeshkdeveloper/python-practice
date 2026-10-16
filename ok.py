@@ -6,3 +6,5 @@
 # print(a+b)
 # name="Hello world"
 # print(len(name))
+name="Hello World!"
+print(name[0])
