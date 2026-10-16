@@ -1,3 +1,3 @@
 # print("Hello py")
-name="python"
-print(name)
+# name="python"
+# print(name)
